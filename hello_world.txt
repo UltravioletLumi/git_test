@@ -1,2 +1,3 @@
 testing for git basics lesson 
 testing change to git commit settings
+practice add and commit
